@@ -19,6 +19,7 @@ public class CatApp {
 		System.out.println(aurelia.ToString());
 		
 		Angora tom = new Angora(1, "Tom", 4);
+		tom.setJawLong(10.2);
 		System.out.println(tom.ToString());
 		
 	}
