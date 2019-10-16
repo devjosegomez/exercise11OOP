@@ -13,7 +13,8 @@ public class CatApp {
 		System.out.println("Aurelia's id: " + aurelia.getId());
 		System.out.println("Aurelia's age: " + aurelia.getAge());
 		System.out.println("Aurelia's name: " + aurelia.getName());
-
+		
+		System.out.println(aurelia.ToString());
 	}
 
 }
